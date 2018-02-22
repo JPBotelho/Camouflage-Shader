@@ -1,0 +1,49 @@
+# Camouflage Shader
+
+A (Unity) surface shader made to apply camo over any existing model.
+
+Includes additive and blend shader.
+
+Extra: 
+RGB Shader - Split your camo into 3 b/w textures, set color for each one - full customization.
+
+Heavily inspired by World of Tanks.
+(I'm looking for internships, Wargaming!)
+
+Plane by Chappi. LINK
+
+# Usage
+
+The shader supports:
+    
+    - Albedo Texture
+    - Normal Map
+    - Metallic Map
+    - Smoothness Slider
+
+This shader requires:
+    
+    - Camo Mask (B/W, defines where camo is rendered)
+    - Camo Texture (B/W and Multiplied by Color or Colored Texture)
+
+This shader allows you to:
+
+    - Set camo scale
+    - Set camo location
+    - Set camo color
+
+
+# Examples
+### Online HTML5 Demo (Run in your browser)
+link
+
+### Before Camo
+
+![Before Camo](Renders/Before.png "Camo")
+
+### After Camo
+
+![After Camo](Renders/Camo1.png "Camo")
+![After Camo](Renders/Camo2.png "Camo")
+![After Camo](Renders/Camo3.png "Camo")
+ 
