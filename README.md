@@ -35,15 +35,15 @@ This shader allows you to:
 
 # Examples
 ### Online HTML5 Demo (Run in your browser)
-link
+Not up yet.
 
 ### Before Camo
 
-![Before Camo](Renders/Before.png "Camo")
+![Before Camo](Renders/Before.PNG "Camo")
 
 ### After Camo
 
-![After Camo](Renders/Camo1.png "Camo")
-![After Camo](Renders/Camo2.png "Camo")
-![After Camo](Renders/Camo3.png "Camo")
+![After Camo](Renders/Camo1.PNG "Camo")
+![After Camo](Renders/Camo2.PNG "Camo")
+![After Camo](Renders/Camo3.PNG "Camo")
  
