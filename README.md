@@ -10,7 +10,9 @@ RGB Shader - Split your camo into 3 b/w textures, set color for each one - full 
 Heavily inspired by World of Tanks.
 (I'm looking for internships, Wargaming!)
 
-Plane by Chappi. LINK
+Plane by Chappi:
+https://www.artstation.com/adriank
+https://sketchfab.com/adriank
 
 # Usage
 
@@ -46,4 +48,7 @@ Not up yet.
 ![After Camo](Renders/Camo1.PNG "Camo")
 ![After Camo](Renders/Camo2.PNG "Camo")
 ![After Camo](Renders/Camo3.PNG "Camo")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
  
