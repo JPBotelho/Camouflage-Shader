@@ -35,9 +35,7 @@ This shader allows you to:
     - Set camo color
 
 
-# Examples
-### Online HTML5 Demo (Run in your browser)
-Not up yet.
+# Check "Releases" tab for an executable demo
 
 ### Before Camo
 
